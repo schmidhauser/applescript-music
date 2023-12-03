@@ -1,1 +1,2 @@
-# applescript-music
+# AppleScripts for macOS Music
+
