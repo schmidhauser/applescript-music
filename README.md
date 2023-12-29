@@ -1,2 +1,2 @@
-# AppleScripts Scripts for macOS Music
+# AppleScript Scripts for macOS Music
 
