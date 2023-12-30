@@ -2,7 +2,7 @@
 on myDeleteCharacters(originalString, numCharactersToDelete, deleteLocation)
 	set len to length of originalString
 	
-	if numCharactersToDelete ³ len then
+	if numCharactersToDelete Â³ len then
 		return ""
 	else
 		if deleteLocation is "From the Beginning" then
