@@ -20,7 +20,7 @@ An example use case: when I added Quatuor Ébène’s recording of the SQs by De
 Select a track from the album to which you’d like to add the PDF file as track, and then run the script *twice* in immediate succession – I’m afraid I’m unable to make it work in one run. (Suggested shortcut: `⌥⌘P`.)
 
 * [Fade In](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20In.applescript)\
-For when you are starting midway. (Suggested shortcut: `⌥⌘<`.)
+For when you are paused midway. (Suggested shortcut: `⌥⌘<`.)
 
 * [Fade Out and Pause](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20Out%20and%20Pause.applescript)\
 A simple stop sometimes feels too savage. (Suggested shortcut: `⌥⌘.`.)
