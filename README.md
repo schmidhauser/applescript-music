@@ -19,11 +19,17 @@ An example use case: when I added Quatuor Ébène’s recording of the SQs by De
 * [Add PDF to Album](https://github.com/schmidhauser/applescript-music/blob/main/Add%20PDF%20to%20Album.applescript)\
 Select a track from the album to which you’d like to add the PDF file as track, and then run the script *twice* in immediate succession – I’m afraid I’m unable to make it work in one run. (Suggested shortcut: `⌥⌘P`.)
 
-* [Fade and Stop](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20and%20Stop.applescript)\
+* [Fade In](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20In.applescript)\
+For when you are starting midway. (Suggested shortcut: `⌥⌘<`.)
+
+* [Fade Out and Pause](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20Out%20and%20Pause.applescript)\
 A simple stop sometimes feels too savage. (Suggested shortcut: `⌥⌘.`.)
 
-* [Fade and Play Next](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20and%20Play%20Next.applescript)\
+* [Fade Out and Stop](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20Out%20and%20Stop.applescript)\
 A variation on the above. (Suggested shortcut: `⌥⇧⌘.`.)
+
+* [Fade Out and Play Next](https://github.com/schmidhauser/applescript-music/blob/main/Fade%20Out%20and%20Play%20Next.applescript)\
+Another variation. (Suggested shortcut: `⌥⇧.`.)
 
 * [Toggle Checkmarks of Selection](https://github.com/schmidhauser/applescript-music/blob/main/Toggle%20Checkmark.applescript)\
 Allows you to keep certain tracks in your library, while not having to listen to them when (say) you’re selecting an album. (Suggested shortcut: `⌥⌘X`.)
